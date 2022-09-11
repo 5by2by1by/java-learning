@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P1470_ShuffleTheArray .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P1470_ShuffleTheArray .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1470" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P1470_ShuffleTheArray .java" />
+              <option name="titleSlug" value="shuffle-the-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P1475_FinalPricesWithASpecialDiscountInAShop .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P1475_FinalPricesWithASpecialDiscountInAShop .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1475" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P1475_FinalPricesWithASpecialDiscountInAShop .java" />
+              <option name="titleSlug" value="final-prices-with-a-special-discount-in-a-shop" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P1592_RearrangeSpacesBetweenWords .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P1592_RearrangeSpacesBetweenWords .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1592" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P1592_RearrangeSpacesBetweenWords .java" />
+              <option name="titleSlug" value="rearrange-spaces-between-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P15_ThreeSum .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P15_ThreeSum .md" />
+              <option name="frontendQuestionId" value="leetcode.cn15" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P15_ThreeSum .java" />
+              <option name="titleSlug" value="3sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P23_MergeKSortedLists .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P23_MergeKSortedLists .md" />
+              <option name="frontendQuestionId" value="leetcode.cn23" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P23_MergeKSortedLists .java" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P2_AddTwoNumbers .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P2_AddTwoNumbers .md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P2_AddTwoNumbers .java" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P45_JumpGameIi .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P45_JumpGameIi .md" />
+              <option name="frontendQuestionId" value="leetcode.cn45" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P45_JumpGameIi .java" />
+              <option name="titleSlug" value="jump-game-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P669_TrimABinarySearchTree .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P669_TrimABinarySearchTree .md" />
+              <option name="frontendQuestionId" value="leetcode.cn669" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P669_TrimABinarySearchTree .java" />
+              <option name="titleSlug" value="trim-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P857_MinimumCostToHireKWorkers .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P857_MinimumCostToHireKWorkers .md" />
+              <option name="frontendQuestionId" value="leetcode.cn857" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P857_MinimumCostToHireKWorkers .java" />
+              <option name="titleSlug" value="minimum-cost-to-hire-k-workers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P946_ValidateStackSequences .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/doc/content/P946_ValidateStackSequences .md" />
+              <option name="frontendQuestionId" value="leetcode.cn946" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/java/src/leetcode/editor/cn/P946_ValidateStackSequences .java" />
+              <option name="titleSlug" value="validate-stack-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
